@@ -12,3 +12,6 @@
 
 
 ![Beautify contant with Format Document](./images/format-doc.jpeg)
+
+
+![week 2 project folder structure](./images/wk2-proj-folders.jpeg)
