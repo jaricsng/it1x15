@@ -5,6 +5,14 @@
 - [Developer Roadmap](https://roadmap.sh/)
 - [Unicode - all languages for WWW](https://home.unicode.org/)
 
+## VSCode Documentation
+
+- [VS Code Tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+- [Install extension](https://code.visualstudio.com/docs/getstarted/extensions)
+- [Source contorl](https://code.visualstudio.com/docs/sourcecontrol/overview)
+- [Terminal](https://code.visualstudio.com/docs/terminal/getting-started)
+
 ## VSCode Extension
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -12,6 +20,9 @@
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Dracula Theme Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- [HTML in VSCode](https://code.visualstudio.com/docs/languages/html)
+  - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+  - [Static Code Analysis Tool for HTML](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
 
 ## Github
 
