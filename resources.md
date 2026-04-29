@@ -5,7 +5,6 @@
 - [Developer Roadmap](https://roadmap.sh/)
 - [Unicode - all languages for WWW](https://home.unicode.org/)
 
-
 ## VSCode Extension
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -15,11 +14,13 @@
 - [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## Github
+
 - [Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 - [Quickstart for wrting on github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Git Cheat Sheet](https://git-scm.com/cheat-sheet)
 
-## HTML Useful 
+## HTML Useful
+
 - [HTML Examples](https://www.w3schools.com/html/html_examples.asp)
 - [country code](https://www.w3schools.com/tags/ref_country_codes.asp)
 - [language code](https://www.w3schools.com/tags/ref_language_codes.asp)
