@@ -12,6 +12,7 @@
 - [Install extension](https://code.visualstudio.com/docs/getstarted/extensions)
 - [Source contorl](https://code.visualstudio.com/docs/sourcecontrol/overview)
 - [Terminal](https://code.visualstudio.com/docs/terminal/getting-started)
+- [GitHub Copilot in VS Code - AI](https://code.visualstudio.com/docs/copilot/overview)
 
 ## VSCode Extension
 
