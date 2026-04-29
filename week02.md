@@ -15,3 +15,4 @@
 
 
 ![week 2 project folder structure](./images/wk2-proj-folders.jpeg)
+

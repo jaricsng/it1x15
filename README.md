@@ -1,1 +1,1 @@
-# additional notes for IT1x15 
+# Additional notes for IT1x15 
