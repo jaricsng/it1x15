@@ -43,3 +43,11 @@
 - [HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Get started with Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+## Foundation knowledge for web application
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting)
+- [command-line](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
+- [JavaScript frameworks & libraries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Introduction)
