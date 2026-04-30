@@ -51,3 +51,5 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting)
 - [command-line](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
 - [JavaScript frameworks & libraries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Introduction)
+- [Version control](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Version_control)
+- [Soft skills](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills)
