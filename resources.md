@@ -46,6 +46,7 @@
 
 ## Foundation knowledge for web application
 
+- [Environment setup](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup)
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting)
