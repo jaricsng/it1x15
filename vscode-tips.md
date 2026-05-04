@@ -29,6 +29,8 @@ If you have multiple formatters installed (like Prettier, Black, or the built-in
 
 ## Add HTML tag to highlighted text
 
+**The Standard Method (Built-in)**
+
 1. **Highlight** the text you want to wrap.
 2. Open the **Command Palette**:
 
@@ -44,6 +46,19 @@ If you have multiple formatters installed (like Prettier, Black, or the built-in
     <span class="highlight">...</span>
 ```
 
+**Using Extensions**
+
+If you prefer a dedicated "one-click" style experience, you can install extensions from the VS Code Marketplace:
+
+- [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap): This is a popular choice. Once installed, you can simply press Alt + W to wrap selected text in a tag automatically.
+- [Surround with Tag](https://marketplace.visualstudio.com/items?itemName=BalduinLandolt.surround-with-tag): Provides a similar functionality with a dedicated prompt for the tag name.
+
+**Quick Tips for HTML Tags**
+
+- Multi-line Wrap: If you select multiple lines and use the Emmet Wrap command with `ul>li*`, Emmet will intelligently wrap each line in its own `<li> tag inside a <ul>`.
+
+- Auto-Close: VS Code has [built-in support](https://code.visualstudio.com/docs/languages/html) for auto-closing tags. If you manually type `<p>`, it will automatically create `</p>`for you, though wrapping is usually faster for existing text.
+
 ## Remove HTML tag pair
 
 1. **Place your cursor** anywhere inside the opening or closing tag you want to delete.
@@ -53,3 +68,8 @@ If you have multiple formatters installed (like Prettier, Black, or the built-in
     - **macOS:** Cmd + Shift + P
 
 3. Type "**Emmet: Remove Tag**" and press Enter.
+
+# Extension for your consideration
+
+- Markdown converter pdf, word
+- Mermaid Text to Diagram
