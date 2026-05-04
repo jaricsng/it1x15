@@ -43,6 +43,8 @@
 - [HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Get started with Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp)
+- [HTML Emojis](https://www.w3schools.com/html/html_emojis.asp)
 
 ## Foundation knowledge for web application
 
