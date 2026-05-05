@@ -62,3 +62,7 @@ What is httpbin? it is a server that echo back everything you sent it, more [det
 - change the action to `https://httpbin.org/post` with method: `post`, take note of the returns result
 
 compare the output of both, if shows information of data submitted in different place and information of user's browser and location (IP address).
+
+## validate your HTML codes
+
+- paste your html content to [Nu Html Checker](https://validator.w3.org/nu/#textarea)
