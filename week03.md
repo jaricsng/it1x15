@@ -49,6 +49,12 @@ user->>browser:validate data
 6. What sort of encoding being used for URL in 'get' method?
 7. Why is the URL encoded in 'get' method?
 8. When you 'Run without debug', the url in browser shows <http://127.0.0.1>, what does this means?
+9. How can you improve input validation for the following
+    a. valid email?
+    b. valid telephone number: digits only, 8 digits, positive number
+    c. valid age: digits only, positive number
+    d. valid birth date: no future date?
+    e. valid URL?
 
 ## improve development experience in vscode
 
