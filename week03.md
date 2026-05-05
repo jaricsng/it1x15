@@ -32,7 +32,7 @@ browser->>storyForm.html: open html page
 storyForm.html->>browser: HTML content
 user->>storyForm.html: Input form data
 user->>storyForm.html: Click Submit
-storyForm.html->>FormProcessor2.html: Method:Post: Submit
+storyForm.html->>FormProcessor2.html: Method:Get: Submit
 FormProcessor2.html->>storyForm.html: generte HTML of data with javascript 
 storyForm.html->>browser: HTML content
 user->>browser:validate data 
