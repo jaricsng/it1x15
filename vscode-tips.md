@@ -76,3 +76,8 @@ You should consider search for vscode extension of the following technologies
 - [Markdown](https://www.markdownguide.org/) live preview, converter to pdf, html ...
 - [Mermaid](https://mermaid.ai/web/) Text to Diagram
 - project documentation with [MkDocs](https://www.mkdocs.org/)
+- install and setup [Mocha](https://mochajs.org/) for vscode for javascript unit test
+with [Mocha Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter)
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) statically analyses your code to find problems
+- Auto Rename Tag 
