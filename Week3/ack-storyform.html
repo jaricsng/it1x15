@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="./validator.js"></script>
+</head>
+
+<body>
+
+    <script type="text/javascript">
+
+        // Get the query string (e.g., "?id=123&name=Jane")
+        const queryString = location.search;
+
+
+        // Parse the parameters, this is valid only for HTTP GET Method
+        const urlParams = new URLSearchParams(queryString);
+
+        // Retrieve specific values by their "name" attribute in the HTML
+        const bdate = urlParams.get('bdate');
+        const gender = urlParams.get('gender');
+        const diploma = urlParams.get('diploma');
+        const email = urlParams.get('email');
+        const contact = urlParams.get('contact');
+        const age = urlParams.get('age');
+        const color = urlParams.get('color');
+        const activity = urlParams.get('activity');
+        const website = urlParams.get('website');
+        const loc = urlParams.get('location');
+
+        if (bdate == null) {
+            console.error("Error: Expect bdate");
+        }
+        console.log("birthday", bdate);
+
+        if (gender == null) {
+            console.error("Error: Expect gender");
+        }
+        console.log("gender", gender);
+
+        if (diploma == null) {
+            console.error("Error: Expect diploma");
+        }
+        console.log("diploma", diploma);
+
+        if (email == null) {
+            console.error("Error: Expect email");
+        }
+        else {
+
+            if (isValidEmail(email) == false) {
+                console.error(email + " email is invalid");
+            } else {
+                console.log("email is valid");
+            }
+        }
+        console.log("email", email);
+
+
+        if (contact == null) {
+            console.error("Error: Expect contact");
+        } else {
+            if (isValidPhoneNumber(contact) == false) {
+                console.error("phone number is invalid");
+            } else {
+                console.log("valid phone number");
+            }
+        }
+        console.log("contact", contact);
+
+        if (age == null) {
+            console.error("Error: Expect age");
+        }
+        console.log("age", age);
+
+        if (color == null) {
+            console.error("Error: Expect color");
+        }
+        console.log("color", color);
+
+        if (activity == null) {
+            console.error("Error: Expect activity");
+        }
+        console.log("activity", activity);
+
+        if (website == null) {
+            console.error("Error: Expect website");
+        } else {
+            if (isValidUrl(website) == false) {
+                console.error("website URL is invalid.");
+            } else {
+                console.log("valid URL");
+            }
+
+        }
+        console.log("website", website);
+
+        if (loc == null) {
+            console.error("Error: Expect location");
+        }
+        console.log("location", loc);
+
+    </script>
+
+</body>
+
+</html>
