@@ -5,37 +5,37 @@ const Utils = require('../validator');
 
 describe("validator", function () {
     describe("#isValidEmail()", function () {
-        it("should return true when the value is a valid email", function () {
+        it("should return true with john.doe@yahoo.com", function () {
             assert.equal(true, Utils.isValidEmail("john.doe@yahoo.com"));
         });
-        it("should return false when the value is invalid email", function () {
+        it("should return false with john.doe@.com", function () {
             assert.equal(false, Utils.isValidEmail("john.doe@.com"));
         });
     });
 
     describe("#isValidUrl()", function () {
-        it("should return true when the value is valid URL", function () {
+        it("should return true with http://www.yahoo.com", function () {
             assert.equal(true, Utils.isValidUrl("http://www.yahoo.com"));
         });
-        it("should return true when the value is valid URL", function () {
+        it("should return true with https://www.yahoo.com", function () {
             assert.equal(true, Utils.isValidUrl("https://www.yahoo.com"));
         });
-        it("should return true when the value is valid URL", function () {
+        it("should return true with https://www.company.org", function () {
             assert.equal(true, Utils.isValidUrl("https://www.company.org"));
         });
-        it("should return false when the value is invalid URL", function () {
+        it("should return false with www", function () {
             assert.equal(false, Utils.isValidUrl("www"));
         });
     })
 
     describe('#isValidPhoneNumber()', () => {
-        it('should return true when value is length of 8 digits only', () => {
+        it('should return true 12345678', () => {
             assert.equal(true, Utils.isValidPhoneNumber("12345678"));
         });
-        it('should return false when value is non digits or length < 8', () => {
+        it('should return false with asdf', () => {
             assert.equal(false, Utils.isValidPhoneNumber("asdf"));
         });
-        it('should return false when value is non digits or length < 8', () => {
+        it('should return false with 1234', () => {
             assert.equal(false, Utils.isValidPhoneNumber("1234"));
         });
     });
