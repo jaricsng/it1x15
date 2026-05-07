@@ -88,7 +88,7 @@ with [Mocha Test Explorer](https://marketplace.visualstudio.com/items?itemName=h
 
 You can consider using [UML](https://www.microsoft.com/en-sg/microsoft-365/business-insights-ideas/resources/guide-to-uml-diagramming-and-database-modeling) to capture your design.
 
-### Baby steps
+### Getstarted
 
 Start with simple tasks, consider [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html), with AI assistant, be specific in your prompt, on the program language, input parameters type, returns type, error handling by the function, input parameters validation. the [protocol](https://dev.to/kalana250/8-essential-network-protocols-every-developer-should-know-1ep9) it should supports, security.
 
