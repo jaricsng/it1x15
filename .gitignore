@@ -1,3 +1,6 @@
 .DS_Store
 .Rhistory
 download
+solution
+node_modules
+package-lock.json
