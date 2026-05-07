@@ -4,6 +4,7 @@
 - [w3schools](https://www.w3schools.com/)
 - [Developer Roadmap](https://roadmap.sh/)
 - [Unicode - all languages for WWW](https://home.unicode.org/)
+- [50+ Essential Linux Commands: A Comprehensive Guide](https://www.digitalocean.com/community/tutorials/linux-commands)
 
 ## VSCode Documentation
 
