@@ -1,6 +1,8 @@
-# VScode Tips and Tricks
+# Developer's Tools
 
-## Auto format on save
+## VScode Tips and Tricks
+
+### Auto format on save
 
 **1. Enable "Format On Save"**
 
@@ -27,7 +29,7 @@ If you have multiple formatters installed (like Prettier, Black, or the built-in
 2. Press `Shift + Alt + F`(Windows) or `Shift + Option + F` (macOS) to trigger a manual format.
 3. If prompted, click Configure... and select your preferred formatter (e.g., [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)).
 
-## Add HTML tag to highlighted text
+### Add HTML tag to highlighted text
 
 **The Standard Method (Built-in)**
 
@@ -59,7 +61,7 @@ If you prefer a dedicated "one-click" style experience, you can install extensio
 
 - Auto-Close: VS Code has [built-in support](https://code.visualstudio.com/docs/languages/html) for auto-closing tags. If you manually type `<p>`, it will automatically create `</p>`for you, though wrapping is usually faster for existing text.
 
-## Remove HTML tag pair
+### Remove HTML tag pair
 
 1. **Place your cursor** anywhere inside the opening or closing tag you want to delete.
 2. Open the **Command Palette**:
@@ -69,7 +71,7 @@ If you prefer a dedicated "one-click" style experience, you can install extensio
 
 3. Type "**Emmet: Remove Tag**" and press Enter.
 
-# Extension for your consideration
+## Extension for your consideration
 
 You should consider search for vscode extension of the following technologies
 
@@ -80,4 +82,22 @@ You should consider search for vscode extension of the following technologies
 with [Mocha Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter)
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) statically analyses your code to find problems
-- Auto Rename Tag 
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) , automatically rename paired html/xml tag
+
+## AI assitant
+
+You can consider using [UML](https://www.microsoft.com/en-sg/microsoft-365/business-insights-ideas/resources/guide-to-uml-diagramming-and-database-modeling) to capture your design.
+
+### Baby steps
+
+Start with simple tasks, consider [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html), with AI assistant, be specific in your prompt, on the program language, input parameters type, returns type, error handling by the function, input parameters validation. the [protocol](https://dev.to/kalana250/8-essential-network-protocols-every-developer-should-know-1ep9) it should supports, security.
+
+- create funcation
+- document function
+- refactor function
+
+## UML Tools
+
+- [Draw.io](https://drawio-app.com/uml-diagrams/): A free online tool that supports a wide range of UML shapes.
+- [Lucidchart](https://www.lucidchart.com/pages/examples/uml_diagram_tool): A web-based tool with specialized libraries for UML modeling.
+- [Miro](https://miro.com/diagramming/what-is-a-uml-diagram/): A collaborative whiteboard tool suitable for creating UML diagrams.
