@@ -6,6 +6,8 @@
 - [Unicode - all languages for WWW](https://home.unicode.org/)
 - [50+ Essential Linux Commands: A Comprehensive Guide](https://www.digitalocean.com/community/tutorials/linux-commands)
 - Get a Ubuntu Linux virtual VM on your Windows, MacOS with [Canonical Multipass](https://canonical.com/multipass)
+- Docker, you can use docker images to spin up containers of Linux : Ubuntu, Debian, or Alpine)
+  You must have Docker installed on your system. You can download [Docker Desktop](https://www.docker.com/products/docker-desktop/) for Windows and Mac, and checkout [Get started](https://docs.docker.com/get-started/introduction/)with Docker.
 
 ## VSCode Documentation
 
@@ -58,3 +60,9 @@
 - [JavaScript frameworks & libraries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Introduction)
 - [Version control](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Version_control)
 - [Soft skills](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills)
+
+## Diagraming Tools
+
+- [C4 models as code](https://www.youtube.com/watch?v=LYzOc7vI-Uo) By Simon Brown where you demostrate [structurizr](https://structurizr.com/) an tool he developed.
+- [PlantUML](https://plantuml.com/) is a highly versatile tool that facilitates the rapid and straightforward creation of a wide array of diagrams.
+- [Mermaid](https://mermaid.js.org/) lets you create diagrams and visualizations using text and code.
